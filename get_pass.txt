@@ -1,0 +1,8 @@
+Цель: в процессе исследования сети некоторой ﻿компании вы наткнулись на ссылку:
+
+http://enter.seclab.stepic.org/getdata.php?req=bmFtZSxhZ2UK
+
+Ваша задача: попробуйте получить пароль пользователя admin. 
+
+https://www.base64encode.org/
+http://enter.seclab.stepic.org/getdata.php?req=cGFzcw0KDQo=
