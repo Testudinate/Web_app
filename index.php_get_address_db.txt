@@ -1,0 +1,6 @@
+http://demo.seclab.stepic.org/dbcheck/index.php
+
+http://demo.seclab.stepic.org/dbcheck/index.php.old
+
+result this ->
+http://demo.seclab.stepic.org/dbcheck/dtest2.php
